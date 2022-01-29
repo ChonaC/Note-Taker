@@ -25,11 +25,11 @@ Please feel free to ask questions on my GitHub [ChonaC][github-chona].
 
 * [Github Repository][github-repo]
 
-* I am having issues with 
+* I am having issues with deploying to heroku
+* I am having issues with second webpage 
 
 
 
 
 [github-chona]: https://github.com/ChonaC
-[github-repo]: https://github.com/ChonaC/EmployeeTracker
-[video-walkthrough]: https://drive.google.com/file/d/1HpVK_qQ6XJSpO81jvIsTq7V2XLkysVVf/view
+[github-repo]: https://github.com/ChonaC/Note-Taker
