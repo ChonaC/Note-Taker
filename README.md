@@ -1,10 +1,10 @@
 # Note-Taker
 
 ## Description
-This application allows the user(Manager) to keep track of current employees in the database. The user is able to view departments, employees, and role. The user can also add new employees along with new department and roles. 
+This application allows the user to create a note so that they can make sure they dont miss any important events or chores or errands. The user can also delete notes when they are completed
 
 ## Installation
-* Cloning the repo: git clone git@github.com:ChonaC/EmployeeTracker.git into your command line.
+* Cloning the repo: git clone git@github.com:ChonaC/Note-Taker.git into your command line.
 * In root directory: npm install.
 * Starting the server: npm start.
 * To view MySQL database: mysql -u root -p 
@@ -14,6 +14,9 @@ This application allows the user(Manager) to keep track of current employees in 
 * Inquirer
 * MySQL
 * Dotenv
+* Routes
+* CSS
+* Heroku
 
 ## Questions
 Please feel free to ask questions on my GitHub [ChonaC][github-chona].
@@ -22,7 +25,7 @@ Please feel free to ask questions on my GitHub [ChonaC][github-chona].
 
 * [Github Repository][github-repo]
 
-* [Video Walkthrough][video-walkthrough]
+* I am having issues with 
 
 
 
