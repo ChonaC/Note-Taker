@@ -2,8 +2,8 @@
 const express = require('express');
 
 // Point Server to the route files
-const apiRoutes = require('./Routes/apiRoutes');
-const htmlRoutes = require('./Routes/htmlRoutes');
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
 // Create an express server
 const app = express();
