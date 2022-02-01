@@ -6,8 +6,8 @@ const saveData = require('../develop/db/saveData');
 // GET request
 router.get('/notes', function (req, res) {
     saveData
-        .getNotes()
-        .then((notes) => {
+        .retrieveNotes()
+        .then((note) => {
             return res.json(note)
         })
         .catch((err) => res.status(500).json(err));
